@@ -11,6 +11,12 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,jquery,mysql,firebase,nodejs,express,postgres,postman,cpp,java,git&perline=9" />
+</p>
+
+<h3 align="center">Stats:</h3>
+
+<p align="center">
     <img
     width = "350px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=lostarrows27&theme=tokyonight&hide_border=true"
