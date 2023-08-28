@@ -11,7 +11,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,jquery,mysql,firebase,nodejs,express,postgres,postman,cpp,java,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,jquery,mysql,firebase,nodejs,express,postgres,supabase,vscode,postman,cpp,java,git&perline=10" />
 </p>
 
 <h3 align="center">Stats:</h3>
