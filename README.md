@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤝, I'm Thanh Dung</h1>
-<h3 align="center">An university student aim to be a Fullstack Engineer with AI and Cybersec knowledge </h3>
+<h3 align="center">An university student aim to be a Fullstack Engineer with AI knowledge </h3>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lostarrows27&theme=darkhub&row=1&column=6" alt="lostarrows27"/> </a> 
