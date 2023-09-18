@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは 🎴, I'm Thanh Dung</h1>
-<h3 align="center">A web dev developer who has strong passion for Anime and Japanese language</h3>
+<h3 align="center">A web developer who has strong passion for Anime and Japanese language</h3>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lostarrows27&theme=darkhub&row=1&column=6" alt="lostarrows27"/> </a> 
