@@ -6,6 +6,8 @@
 </p>
 
 - 📝 I’m currently learning **AI and Japanese**
+- 🈳 I love watching Anime, reading Manga and Light Novel, especially Romcom
+- 🏫 My favorite one is the **[冴えない彼女の育てかた](https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata)** anime and **[義妹生活](https://www.novelupdates.com/series/gimai-seikatsu/)** light novel
 - 💌 How to reach me? DM me through **[Facebook](https://www.facebook.com/Romcomgasukidesu)**.
 
 <h3 align="center">Languages and Tools:</h3>
