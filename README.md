@@ -13,7 +13,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,jquery,mysql,firebase,nodejs,express,postgres,supabase,vscode,postman,cpp,java,git,codepen,github,go,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,jquery,mysql,firebase,nodejs,express,postgres,supabase,vscode,postman,cpp,java,spring,hibernate,git,idea,codepen,github,go,vercel&perline=9" />
 </p>
 
 <h3 align="center">Stats:</h3>
