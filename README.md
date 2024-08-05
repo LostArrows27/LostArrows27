@@ -10,13 +10,19 @@
 - 🏫 My favorite one is the **[冴えない彼女の育てかた](https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata)** anime and **[義妹生活](https://www.novelupdates.com/series/gimai-seikatsu/)** light novel
 - 💌 How to reach me? DM me through **[Facebook](https://www.facebook.com/Romcomgasukidesu)**.
 
+<h3 align="center">Stats:</h3>
+
+<p align="center">
+    <img
+        src="https://streak-stats.demolab.com?user=LostArrows27&theme=catppuccin-mocha"
+    />
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,jquery,mysql,firebase,nodejs,express,postgres,supabase,vscode,postman,cpp,java,spring,hibernate,git,idea,codepen,github,go,vercel&perline=9" />
 </p>
-
-<h3 align="center">Stats:</h3>
 
 <p align="center">
     <img
@@ -24,3 +30,5 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=lostarrows27&layout=compact&theme=tokyonight&count_private=true&hide_border=true"
     />
 </p>
+
+
