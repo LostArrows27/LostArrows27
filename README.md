@@ -5,7 +5,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lostarrows27&theme=darkhub&row=1&column=6" alt="lostarrows27"/> </a> 
 </p>
 
-- 📝 I’m currently learning **Backend and Japanese**
+- 📝 I’m currently learning **Japanese, ITPEC FE** and doing my **Graduation thesis**
 - 🈳 I love watching Anime, reading Manga and Light Novel, especially Romcom
 - 🏫 My favorite one is the **[冴えない彼女の育てかた](https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata)** anime and **[義妹生活](https://www.novelupdates.com/series/gimai-seikatsu/)** light novel
 - 💌 How to reach me? DM me through **[Facebook](https://www.facebook.com/Romcomgasukidesu)**.
